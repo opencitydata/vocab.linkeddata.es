@@ -96,6 +96,8 @@ public class VocabUtils {
                 if(contentType.contains(serialization)){
 //                    System.out.println(response.getLastHeader("Location").getValue());
                     return true;
+                } else if (serialization.equals("application/rdf+xml") && contentType.equals("application/xml")) {
+                	return true;
                 }
             }
         } catch (Exception e) {

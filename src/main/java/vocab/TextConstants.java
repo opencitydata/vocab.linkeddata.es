@@ -107,7 +107,7 @@ public class TextConstants {
 		    "    <div class=\"collapse navbar-collapse\">\n" + 
 		    "      <ul class=\"nav navbar-nav\">\n" + 
 		    "        <li class=\"active\"><a href=\"#\">Vocabularies</a></li>\n" + 
-		    "        <li><a href=\"http://rohub.linkeddata.es\">Research Objects</a></li>\n" + 
+//		    "        <li><a href=\"http://rohub.linkeddata.es\">Research Objects</a></li>\n" + 
 		    "        <li><a href=\"report.html\">Vocabulary report</a></li>\n" + 
 		    "      </ul>\n" + 
 		    "    </div><!--/.nav-collapse -->\n" + 
@@ -138,7 +138,7 @@ public class TextConstants {
             "    <div class=\"collapse navbar-collapse\">\n" +
             "      <ul class=\"nav navbar-nav\">\n" +
             "        <li ><a href=\"./index.html\">Vocabularies</a></li>\n" +
-            "        <li><a href=\"http://rohub.linkeddata.es\">Research Objects</a></li>\n" +
+//          "        <li><a href=\"http://rohub.linkeddata.es\">Research Objects</a></li>\n" +
             "        <li class=\"active\"><a href=\"#\">Vocabulary report</a></li>\n" +
             "      </ul>\n" +
             "    </div><!--/.nav-collapse -->\n" +
@@ -338,7 +338,7 @@ public class TextConstants {
                "    <div class=\"collapse navbar-collapse\">\n" + 
                "      <ul class=\"nav navbar-nav\">\n" + 
                "        <li><a href=\"../index.html\">Vocabularies</a></li>\n" + //cambiar por index o solo ./ si en el servidor hay redireccion al index
-               "        <li><a href=\"http://rohub.linkeddata.es\">Research Objects</a></li>\n" + 
+//               "        <li><a href=\"http://rohub.linkeddata.es\">Research Objects</a></li>\n" + 
               "         <li><a href=\"../report.html\">Vocabulary report</a></li>\n" +  
                "      </ul>\n" + 
                "    </div><!--/.nav-collapse -->\n" + 
