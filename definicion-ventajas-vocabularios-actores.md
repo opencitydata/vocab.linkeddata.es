@@ -20,7 +20,7 @@ Para la creación de vocabularios se requiere la participación de los siguiente
 - **expertos del dominio**, aquellas personas con el conocimiento en el área que se va a modelar.
 - **usuarios**, aquellos que utilizarán los datos.
 
-** ¿Cómo se desarrolla un vocabulario? **
+**¿Cómo se desarrolla un vocabulario?**
 
 Existen varias metodologías para desarrollar vocabularios; cada una de ellas proporciona sus propias guías para describir las actividades que se deben llevar a cabo, los actores involucrados, y los resultados esperados tras cada actividad. Particularmente, en este proyecto la metodología que usaremos involucra cuatro actividades: Especificación de Requisitos, Implementación,  Publicación del Vocabulario y Mantenimiento. Los detalles relacionados con las tareas que se realizan en estas actividades y la participación de los actores, descritos anteriormente, se pueden encontrar en el [Artículo 3. ¿Cómo desarrollar vocabularios?](https://github.com/opencitydata/vocab.linkeddata.es/blob/master/metodologia-desarrollo-vocabularios.md).
 
