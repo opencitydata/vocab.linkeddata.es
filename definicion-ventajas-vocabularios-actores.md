@@ -26,7 +26,7 @@ Existen varias metodologías para desarrollar vocabularios; cada una de ellas pr
 
 --
 
-Esta nota ha sido creada en el contexto de la actividad "D1 - Desarrollo de vocabularios y estructuras de datos" del proyecto “Desarrollo de la Iniciativa Plataforma de Gobierno Abierto, Colaborativa e Interoperable”. Han participado en su edición tanto los adjudicatarios del proyecto (UPM, Localidata) como responsables de las ciudades involucradas en este proyecto (Zaragoza, Madrid, Santiago de Compostela, A Coruña).
+Este artículo ha sido creado en el contexto de la actividad "D1 - Desarrollo de vocabularios y estructuras de datos" del proyecto “Desarrollo de la Iniciativa Plataforma de Gobierno Abierto, Colaborativa e Interoperable”. Han participado en su edición tanto los adjudicatarios del proyecto (UPM, Localidata, GMV) como responsables de las ciudades involucradas en este proyecto (Zaragoza, Madrid, Santiago de Compostela, A Coruña).
 
 Cómo hacer referencia a este documento:
-Espinoza P, Corcho O, Crespo HE (2018) Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos. 2. Ventajas del uso de vocabularios (dirigido a miembros de las administraciones públicas - expertos de dominio - y usuarios). DOI: xxxxxx
+Espinoza P, Corcho O, Crespo HE (2018) Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos. 2. Ventajas del uso de vocabularios (dirigido a miembros de las administraciones públicas - expertos de dominio - y usuarios). DOI: (por confirmar)

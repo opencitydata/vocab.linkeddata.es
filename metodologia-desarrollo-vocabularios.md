@@ -1,7 +1,7 @@
 ## Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos.
 ### Artículo 3. ¿Cómo desarrollar vocabularios?
 
-Existen varias metodologías para el desarrollo de vocabularios. Particularmente, en este proyecto la metodología que usaremos se basa en la metodología [NeOn](https://link.springer.com/book/10.1007/978-3-642-24794-1) e involucra cuatro actividades: Especificación de Requisitos, Implementación, Publicación del Vocabulario y Mantenimiento. A continuación, se describe brevemente cada una de las actividades involucradas en el desarrollo. De manera particular se detallan las tareas de la actividad en las que se requiere la intervención de los usuarios y los expertos del dominio. Aquellas tareas que son ejecutadas únicamente por los ingenieros de ontologías se explican con menos detalle pues la intención del presente documento es facilitar la comprensión y promover la colaboración de los expertos y los usuarios durante el desarrollo de este proyecto.
+Existen varias metodologías para el desarrollo de vocabularios. Particularmente, en este proyecto la metodología que usaremos se basa en la metodología [NeOn](https://link.springer.com/book/10.1007/978-3-642-24794-1) y [LOT](http://lot.linkeddata.es/) e involucra cuatro actividades: Especificación de Requisitos, Implementación, Publicación del Vocabulario y Mantenimiento. A continuación, se describe brevemente cada una de las actividades involucradas en el desarrollo. De manera particular se detallan las tareas de la actividad en las que se requiere la intervención de los usuarios y los expertos del dominio. Aquellas tareas que son ejecutadas únicamente por los ingenieros de ontologías se explican con menos detalle pues la intención del presente documento es facilitar la comprensión y promover la colaboración de los expertos y los usuarios durante el desarrollo de este proyecto.
 
 **1. Especificación de Requisitos.**
 
@@ -69,8 +69,8 @@ Esta actividad está presente durante todas las actividades anteriores, es decir
 
 ***
 
-Esta nota ha sido creada en el contexto de la actividad "D1 - Desarrollo de vocabularios y estructuras de datos" del proyecto “Desarrollo de la Iniciativa Plataforma de Gobierno Abierto, Colaborativa e Interoperable”. Han participado en su edición tanto los adjudicatarios del proyecto (UPM, Localidata) como los responsables de las ciudades involucradas en este proyecto (Zaragoza, Madrid, Santiago de Compostela, A Coruña).
+Este artículo ha sido creado en el contexto de la actividad "D1 - Desarrollo de vocabularios y estructuras de datos" del proyecto “Desarrollo de la Iniciativa Plataforma de Gobierno Abierto, Colaborativa e Interoperable”. Han participado en su edición tanto los adjudicatarios del proyecto (UPM, Localidata, GMV) como los responsables de las ciudades involucradas en este proyecto (Zaragoza, Madrid, Santiago de Compostela, A Coruña).
 
 Cómo hacer referencia a este documento:
 
-Espinoza P, Corcho O (2018) Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos. 3. ¿Cómo desarrollar vocabularios? . DOI: xxxxxx
+Espinoza P, Corcho O (2018) Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos. 3. ¿Cómo desarrollar vocabularios? . DOI: (por confirmar)

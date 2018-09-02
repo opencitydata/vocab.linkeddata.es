@@ -38,8 +38,8 @@ Estas son algunas de las razones que pueden justificar la adopción de una estra
 
 ***
 
-Esta nota ha sido creada en el contexto de la actividad "D1 - Desarrollo de vocabularios y estructuras de datos" del proyecto “Desarrollo de la Iniciativa Plataforma de Gobierno Abierto, Colaborativa e Interoperable”. Han participado en su edición tanto los adjudicatarios del proyecto (UPM, Localidata) como los responsables de las ciudades involucradas en este proyecto (Zaragoza, Madrid, Santiago de Compostela, A Coruña).
+Este artículo ha sido creado en el contexto de la actividad "D1 - Desarrollo de vocabularios y estructuras de datos" del proyecto “Desarrollo de la Iniciativa Plataforma de Gobierno Abierto, Colaborativa e Interoperable”. Han participado en su edición tanto los adjudicatarios del proyecto (UPM, Localidata, GMV) como los responsables de las ciudades involucradas en este proyecto (Zaragoza, Madrid, Santiago de Compostela, A Coruña).
 
 Cómo hacer referencia a este documento:
 
-Corcho O, Espinoza P (2018) Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos. 1. Contexto y ventajas estratégicas generales (dirigido a administraciones públicas). DOI: xxxxxx
+Corcho O, Espinoza P (2018) Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos. 1. Contexto y ventajas estratégicas generales (dirigido a administraciones públicas). DOI: (por confirmar)
