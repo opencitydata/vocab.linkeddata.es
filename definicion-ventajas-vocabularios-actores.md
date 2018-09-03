@@ -1,5 +1,5 @@
 ## Guías rápidas para la creación y uso de vocabularios consensuados para publicar datos abiertos.
-### Artículo 2. Ventajas del uso de vocabularios (dirigido a miembros de las administraciones públicas - expertos de dominio - y usuarios)
+### Artículo 2. ¿Qué son los vocabularios y para que son útiles? (dirigido a miembros de las administraciones públicas - expertos de dominio - y usuarios)
 
 
 **¿Qué es un vocabulario?**
